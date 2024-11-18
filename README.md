@@ -29,7 +29,7 @@ IG : ryzz.36 <br>
 ### Please don't just copy paste, use ATM! (Amati, Tiru, Modifikasi) :D
 
 ### Contributor
-- Mochammad Fariz Rifqi Rizqulloh 13523069
+- Mochammad Fariz Rifqi Rizqulloh 13523069 <-- This is me :D
 - Razi Rachman Widyadhana 13523004
 - Muhammad Adha Ridwan 13523098 [Twitter = adharid21]
 - Nayaka Ghana Subrata 13523090
