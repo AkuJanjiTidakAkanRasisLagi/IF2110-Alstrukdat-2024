@@ -15,10 +15,10 @@ IG : ryzz.36 <br>
 | 1            | ADT Sederhana                                 | 300/300|
 | 2            | ADT List dengan Array Statik                  | 300/300|
 | 3            | ADT List dengan Array Dinamis                 | 300/300|
-| 4            | ADT Matrix                                    | ---/---|
-| 5            | ADT Mesin Kata                                | ---/---|
-| 6            | ADT Stack                                     | ---/---|
-| 7            | ADT Queue                                     | ---/---|
+| 4            | ADT Matrix                                    | 300/300|
+| 5            | ADT Mesin Kata                                | 300/300|
+| 6            | ADT Stack                                     | 300/300|
+| 7            | ADT Queue                                     | 400/400|
 | 8            | ADT Linked List                               | ---/---|
 | 9            | ADT List Linier                               | ---/---|
 | 10           | ADT Stack dan Queue dengan Struktur Berkait   | ---/---|
