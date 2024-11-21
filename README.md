@@ -19,7 +19,7 @@ IG : ryzz.36 <br>
 | 5            | ADT Mesin Kata                                | 300/300|
 | 6            | ADT Stack                                     | 300/300|
 | 7            | ADT Queue                                     | 400/400|
-| 8            | ADT Linked List                               | ---/---|
+| 8            | ADT Linked List                               | 300/300|
 | 9            | ADT List Linier                               | ---/---|
 | 10           | ADT Stack dan Queue dengan Struktur Berkait   | ---/---|
 | 11           | ADT List Rekursif                             | ---/---|
